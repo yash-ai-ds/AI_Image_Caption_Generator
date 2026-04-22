@@ -1,0 +1,38 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual Environments
+venv/
+.venv/
+env/
+.env/
+
+# Streamlit and Logs
+*.log
+.streamlit/
+nohup.out
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Audio generated output (just in case they are saved locally)
+*.mp3
+*.wav
+
+# Downloaded files
+captions.txt
+image_captions.txt
+
+# Editor / IDE settings
+.idea/
+.vscode/
+*.swp
+*.swo
